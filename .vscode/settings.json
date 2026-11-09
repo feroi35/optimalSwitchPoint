@@ -1,0 +1,11 @@
+{
+    "flake8.args": [
+        "--max-line-length=120"
+    ],
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}

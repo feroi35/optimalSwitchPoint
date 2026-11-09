@@ -1,0 +1,21 @@
+{
+    "robot_a_count": 196,
+    "purchase_lot_counts": [
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "remaining_part_quantities": [
+        300,
+        1,
+        123,
+        166,
+        142
+    ],
+    "production_cost_difference": 30470.16,
+    "remaining_parts_cost": 9764.98,
+    "lot_quantity_term": 4638.0,
+    "total_cost": 44873.14
+}

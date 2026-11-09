@@ -1,0 +1,33 @@
+{
+    "robot_a_unit_cost": 677.4,
+    "robot_b_unit_cost": 521.94,
+    "specific_part_count": 5,
+    "robot_a_part_quantities": [
+        7,
+        9,
+        5,
+        8,
+        6
+    ],
+    "part_unit_costs": [
+        19.54,
+        15.46,
+        15.94,
+        3.43,
+        9.56
+    ],
+    "part_purchase_lot_sizes": [
+        137,
+        300,
+        248,
+        173,
+        470
+    ],
+    "initial_part_inventory": [
+        1672,
+        1465,
+        1103,
+        1734,
+        1318
+    ]
+}
